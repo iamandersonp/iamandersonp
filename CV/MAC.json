@@ -1,0 +1,790 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Anderson",
+      "surnames": "Peñaloza",
+      "title": "Desarrollador Full Stack con mas de 20 años de experiencia",
+      "description": "Soy un desarrollador de software con una gran pasión por el continuo crecimiento tanto personal como profesional. Comence mi carrera muy joven sin siquiera haber empezado la universidad por mi gran curiosidad por los videojuegos y eso me llevó a montar mis propios servidores de juegos online donde aprendí mucho de linux y gestión de servidores, luego programando sistemas de gestión en php vanila, con el paso del tiempo haciendo trabajos freelancer para diversos clientes comencé a usar frameworks como symfony o zend framework y con el paso del tiempo fui puliendo mis habilidades ya con estudios universitarios y casi 5 años trabajando como freelancer. Durante todo este tiempo he tenido claro que lo mas importante es nunca parar de aprender y es lo que me motiva siempre a seguir desarrollándome tanto personal como profesionalmentre",
+      "avatar": {
+        "alt": "1677658207215.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/01/1cd4d059-19cd-4a0d-af2e-23458f18b89f_1677658207215.jpg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/iamandersonp"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/iam_andersonp"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/iamanderspnp/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Ibermática S.A",
+          "image": {
+            "alt": "logo ibermatica.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/04/f253ac27-30d6-4cf1-9c82-c52d059b7485_logo-ibermatica.jpg"
+          },
+          "URL": "http://www.ibermatica.com"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de Software Full Stack",
+            "startDate": "2021-10-01",
+            "challenges": [
+              {
+                "description": "- Creación de aplicaciones en plataformas móviles para el Banco de España utilizando los frameworks ANGULAR 13 e IONIC FRAMEWORKS 6 empleando la metodología Ágil SCRUM bajo la arquitectura de componentes. Entre las que destacan las Aplicaciones Simuladores BDE, Estadísticas BDE actualmente publicadas tanto en el App Store como en Google Play.\n\n- Mantenimiento de aplicaciones móviles para el Banco de España creadas en CORDOVA e IONIC FRAMEWORK usando metodología Ágil de desarrollo SCRUM"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Cordova",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "SAS",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelancer"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de Software Full Stack",
+            "startDate": "2002-07-01",
+            "challenges": [
+              {
+                "description": "- Asesor técnico en el mantenimiento de infraestructuras de servidores,destacando servidor SAP de la empresa Renovadora Cauca hecho en de Hyper Virtualización.\n\n- Implantación de plataforma de virtualización de servidores con Proxmox a universidades públicas\n\n- Desarrollo de sistema de Resultados en linea para Laboratorio Familiar (labfamiliar.com) en php con jquery, html5 y bootstrap, el cuel muestra los resultados de los exámenes que realiza el laboratorio.\n\n- Desarrollo de sistema de control de insumos para La Biblioteca “Leticia Collaso”, hecho en entorno web, usando PHP5, jquery, html, css y bootstrap, permitiendo automatizar los procesos de control y solicitud de insumos, mejorando enormemente los tiempos de respuesta y la obtención de datos estadísticos para la toma de decisiones.\n\n- Desarrollo de aplicaciones de gestión administrativa en entorno web para particulares y empresas destacando sistema de consulta de nomina en angularJs 2 e Ionic Framework para una franquicia de la cadena Burger King.\n\n- Implementación de sitios web corporativos, de noticias y e-comerces con sistemas CMS, como Drupal, Joomla y Wordpress destacando la web labfamiliar.com, tienda online Recercauchos.com, sitio de noticias 800noticias.com\n\n- Asesoria y tutoria de proyectos: En entornos de trabajo MVC con asp.net 3.5, symphony y spring MVC.\n\n- Corrección de Errores y Desarrollo de nuevas mejoras: para clientes empresas y particulares en MVC asp.net 3.5, Symphony y Visual Basic 6.0\n\n- Instalación de redes de computación de mas de 100 nodos a empresas como Renovadora Cauca e implementación de los protocolos y servicios de comunicación y seguridad de red usando Fortinet y Mikrotic.\n\n- Instalación de sistemas de circuito cerrado de vigilancia a empresas y particulares; desde pequeñas instalaciones con 2 a 16 cámaras de vigilancia, algunas con sistemas escondidos de audio, hasta grandes sistemas de circuito cerrado de 128 cámaras de vigilancia. Todas con acceso administrativo desde internet."
+              }
+            ],
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Debian",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Drupal",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "Zend",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "money eu",
+          "image": {
+            "alt": "logo money.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/04/6ccc3640-452f-4834-af73-e105f3667bcb_logo-money.jpg"
+          },
+          "URL": "https://moneyeu.com/"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de Software Full Stack",
+            "startDate": "2021-08-01",
+            "finishDate": "2021-10-01",
+            "challenges": [
+              {
+                "description": "- Creación de nuevas funcionalidades en la parte front en angular.\n\n- Creación de pruebas unitarias en el front para garantizar la calidad del codigo usando jasmine y karma.\n\n- Refactorizar componentes en el front para optimizar los procesos existentes y mejorar el rendimiento de la aplicación.\n\n- Creación de nuevas funcionalidades en el Backend usando Java 8 y Spring Boot.\n\n- Encryptación de la data para garantizar la seguridad de la misma, Tanto cmo el token de comnicación como la información sensible del usuario utilizando algoritmos de encriptado AES"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Jasmine",
+                "type": "technology"
+              },
+              {
+                "name": "Karma",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Simply Workflow",
+          "image": {
+            "alt": "logo simply.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/04/391cbad1-7f02-4994-8c83-b6fb473a689e_logo-simply.jpg"
+          },
+          "URL": "https://simplyworkflow.com/"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de Software Full Stack",
+            "startDate": "2021-04-01",
+            "finishDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "- Creación de pruebas unitarias y pruebas funcionales para asegurar el correcto funcionamiento de las aplicaciones de la plataforma.\nDesarrollo de nuevas funcionalidades empleando el framework laravel 8"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Krell Consulting",
+          "image": {
+            "alt": "logo krell.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/04/5834bbd7-4887-43fa-86dd-4488c5c9e238_logo-krell.jpg"
+          },
+          "URL": "https://www.krell-consulting.com/"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de Software Frontend",
+            "startDate": "2021-04-01",
+            "finishDate": "2021-06-01",
+            "challenges": [
+              {
+                "description": "- Creación de pruebas unitarias empleando el lenguaje JEST para garantizar la calidad del codigo y anticipar fallos del mismo\n\n- Creación de nuevas funcionalidades para la plataforma de clientes de la Empresa Orange empleando la metodologia de desarrollo Agile SCRUM y el lenguaje de programación Angular 11.\n\n- Corrección de errores en la aplicación fronted y migración de componentes a las ultimas versiones de Angular"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Jasmine",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Antartyca Consulting",
+          "image": {
+            "alt": "logo antartyca.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/04/5d17918d-16b5-4b7b-96e3-a8935344b0ff_logo-antartyca.jpg"
+          },
+          "URL": "https://www.antartyca.com/"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de Software Full Stack",
+            "startDate": "2020-08-01",
+            "finishDate": "2021-03-01",
+            "challenges": [
+              {
+                "description": "- Desarrollo de Software: para plataforma web, utilizando el lenguaje de programación asp.net en patron MVC utilizando Entity Framework y C#, ademas de utilizar jQuery, bootsttrap y ReactJS y manejo de base de datos SQL Server y Oracle entre los cuales destacan un CRM para la comunidad de madrid para la gestión de citas medicas y seguimiento a los pacientes que puedan ser positivos para COVID-19 hecho con asp.net y VUE.js.\n\n- Proyecto Conde ENOC para uso interno de la empresa. Desarrollado para ejecutarse en terminales portátiles y Móviles Android. Permite la captura electrónica y manual de los datos contenidos en los códigos de barras de las etiquetas de material, automática y transparente. Ademas de incluir procesos complejos en el sistema, como notificaciones, movimientos, inventarios, transferencias o pickings, entre otros. Comunicación con SAP y Sql Server"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "SAP",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Antartyca Consulting",
+          "image": {
+            "alt": "logo antartyca.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/04/2b237116-a986-4232-8453-18abdc2f0fbd_logo-antartyca.jpg"
+          },
+          "URL": "https://www.antartyca.com/"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de Software Frontend",
+            "startDate": "2020-05-01",
+            "finishDate": "2020-08-01",
+            "challenges": [
+              {
+                "description": "- Gestión de proyectos bajo metodologia Agil utilizando SCRUM, entre los cuales destacan un sistema creado en Angular 8 enlazado a servicios SAP paralos comerciales de la Empresa Flex.\n\n- Encargado de diseñar el flujo de trabajo para la implementación de la lógica de negocio mediante Servicios singlenton y storages. Con consulta a servicios Rest API de SAP."
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "MaterialUI",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "M2M Aplicaciones",
+          "image": {
+            "alt": "logo m2m.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/04/1cd73657-e0c4-4f39-b5a6-eca552e89eb9_logo-m2m.jpg"
+          },
+          "URL": "https://www.m2maplicaciones.io"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de Software Mobile",
+            "startDate": "2019-11-01",
+            "finishDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": "- Desarrollo de Software: para plataforma web, utilizando el lenguaje de programación asp.net en patron MVC utilizando entity framework y C#, ademas de utilizar jQuery y bootsttrap y manejo de base de datos MySQL.\n\n- Desarrollo de Aplicaciones moviles: en plataforma hibrida utilizando los lenguajes de de programación Angularjs 7, Ionic Framework 5, destacando la aplicación workclick.io disponible tanto para android como Ios"
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Politécnica Territorial del Estado Lara Andres Eloy Blanco",
+          "image": {
+            "alt": "logo upt.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/04/c5f89068-7d23-42d7-92e6-85517273a8b2_logo-upt.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Lider de Equipo de Desarrollo",
+            "startDate": "2015-04-01",
+            "finishDate": "2019-10-01",
+            "challenges": [
+              {
+                "description": "- Administración del Servidor de Datos del área académica: Virtualización de Sistema Operativo Windows 2000 con SQL Server 2000 utilizando el Sistema Operativo Proxmox, Resguarde de datos mediante Implementación de políticas de seguridad de firewalls de linux y copias de seguridad de las bases de datos programadas automáticamente en el crom del sistema anfitrión y respaldadas en un servidor Samba remoto.\n\n- Database administrator: en SQL Server 2000 y MySQL, creando políticas de acceso a datos mediante la implementación de vistas y procedimientos almacenados, optimización de datos con técnicas de re-indexado y creando rutinas de migración de datos en PHP y Visual Basic.\n\n- Implementación de los nuevos servidores de desarrollo y producción del área académica: Vitualización de Servidores de datos en MySQL en clúster redundante para bases de datos de producción y Desarrollo instalado en Sistema Operativo Debian, Servidor Web Apache con proxy inverso NGinx.\n\n- Líder de Desarrollo de procesos académicos administrativos: mediante tecnológicas de desarrollo ágil SCRUM y el uso de repositorios remotos SVN y git para el control de versiones e integración y prueba de los sistemas. Logrando optimizar los antiguos procesos y automatizar 10 nuevos procesos administrativos de los cuales 7 no existían y 3 se hacían de manera manual.\n\n- Puesta en marcha de nuevo Sistema Web de Gestión y Control Académico: mediante la creación de un FrontEnd desarrollado en Angular 5 e ionic 2 y un BackEnd realizado con PHP7 usando el framework Zend Framework 2."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "Lamp",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Proxmox",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Zend",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Politécnica Territorial del Estado Lara Andres Eloy Blanco",
+          "image": {
+            "alt": "logo upt.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/04/1c34d7d8-84c2-4d4a-8c6b-d65455caceec_logo-upt.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Analista de datos y desarrollador de software",
+            "startDate": "2013-02-01",
+            "finishDate": "2015-04-01",
+            "challenges": [
+              {
+                "description": "- Mantenimiento de sistemas académicos administrativos: Programados en Visual Basic y php.\nAnálisis de datos: Crear reportes usando la herramienta CrystalReport 6 para la entrega de informes estadísticos a las áreas competentes para la toma de decisiones.\n\n- Desarrollo de aplicaciones: en lenguajes como Visual Basic, php, javascript, html y css entre los cuales destacan un sistema de control de acceso y monitoreo de comidas para comedor estudiantil hecho en entorno web."
+              }
+            ],
+            "competences": [
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPunit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MariaDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ionic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apple iOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Tecnico Superior Universitarion En Informática",
+        "startDate": "2013-06-01",
+        "finishDate": "2017-07-01",
+        "institution": {
+          "name": "Universidad Politécnica Territorial del Estado Lara Andrés Eloy Blanco",
+          "description": "",
+          "image": {
+            "alt": "logo upt.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/04/b08eb7a8-5394-4463-b89c-9bef4473c784_logo-upt.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/iamanderspnp/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "Ionic",
+          "type": "technology"
+        },
+        {
+          "name": "Nest",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": ".Net Core",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Mobile Developer",
+        "Tech Lead"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
