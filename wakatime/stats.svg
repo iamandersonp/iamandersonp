@@ -1,10 +1,10 @@
 
-<svg width="696" height="330" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
+<svg width="696" height="390" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
   <rect
     x="1"
     y="1"
     width="694"
-    height="328"
+    height="388"
     fill="#121212"
     stroke="#e0e0e0"
     stroke-width="2"
@@ -407,7 +407,7 @@
 <rect x="612" y="48" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.29" stroke="#e0e0e0" stroke-width="0.5" />
 <rect x="612" y="60" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.10" stroke="#e0e0e0" stroke-width="0.5" />
 <rect x="612" y="72" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.10" stroke="#e0e0e0" stroke-width="0.5" />
-<rect x="624" y="0" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.17" stroke="#e0e0e0" stroke-width="0.5" />
+<rect x="624" y="0" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.19" stroke="#e0e0e0" stroke-width="0.5" />
 
         <text x="491" y="98" font-size="10" fill="#e0e0e0" font-family="Calibri">Less</text>
         <rect x="521" y="90" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.1"/>
@@ -418,5 +418,10 @@
 <rect x="581" y="90" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="1"/>
         <text x="598" y="98" font-size="10" fill="#e0e0e0" font-family="Calibri">More</text>
       </g>
+    </g>
+<g transform="translate(348, 330) scale(1)">
+      <text x="20" y="20" fill="black" font-size="14">
+              ⚠︎ Error: No all-time language data available.
+            </text>
     </g>
 </svg>
