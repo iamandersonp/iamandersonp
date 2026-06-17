@@ -1,3 +1,3 @@
 # Mis estadisticas
 
-<img src="wakatime/stats.svg?v=20260616" width="400" alt="" />
+<img src="wakatime/stats.svg?v=20260617" width="400" alt="" />
